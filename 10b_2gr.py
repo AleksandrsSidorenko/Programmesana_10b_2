@@ -1,3 +1,4 @@
+print(5**3+64)
 1 	
 Kudrjavceva Veronika
 2 	
